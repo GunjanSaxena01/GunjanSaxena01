@@ -25,9 +25,9 @@ class GunjanSaxena:
         self.name       = "Gunjan Saxena"
         self.role       = "AI & ML Engineer"
         self.location   = "Phagwara, Punjab 🇮🇳"
-        self.education  = "B.Tech CSE @ LPU  |  CGPA: 6.97"
+        self.education  = "B.Tech CSE @ LPU  |  CGPA: 7.25"
         self.contact    = "gunjansaxena1810@gmail.com"
-        self.phone      = "+91 9511113070"
+        self.phone      = "+91 95********"
 
     def current_focus(self):
         return {
